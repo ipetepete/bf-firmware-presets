@@ -9,8 +9,6 @@
 #$ AUTHOR: PetePete
 #$ DESCRIPTION: My switchy switches
 
-#$ INCLUDE: presets/2026.6/modes/defaults.txt
-
 # aux
 aux 0 0 0 1700 2100 0 0
 aux 1 1 1 1700 2100 0 0

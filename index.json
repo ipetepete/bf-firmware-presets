@@ -134,6 +134,7 @@
   },
   "uniqueValues": {
     "firmware_version": [
+      "2026.6",
       "4.3",
       "4.4",
       "4.5"
@@ -162,6 +163,103 @@
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/2026.6/modes/defaults.txt",
+      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2026.6/modes/pete_modes.txt",
+      "hash": "66ef336067082f3283db7e8b622af0fea072ebdde196c82cc3dcc8ff642f35e4",
+      "title": "Petes modes",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2026.6"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "PetePete",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2026.6/osd/defaults.txt",
+      "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
+      "title": "Default 4.3 OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2026.6/osd/pete_basic.txt",
+      "hash": "c11c3b9c33bfd35e7744b6de5d11f77fc2ffdead132583941617ba4cd8fd24c0",
+      "title": "Pete - Analog",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2026.6"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "analog"
+      ],
+      "author": "PetePete",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/2026.6/rates/smoothy.txt",
+      "hash": "94f3eede1b943990c7b85db2c5e440983b64640f1c1ca71923f74777a9c6682a",
+      "title": "Freestyle smooth rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5",
+        "2026.6"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "rates",
+        "freestyle"
+      ],
+      "author": "PetePete",
+      "priority": 10000
+    },
     {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
@@ -223,7 +321,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/pete_basic.txt",
-      "hash": "b031308bd29fe0fdf55b148a390adffba5ca3c11802066951299c49ee5d88021",
+      "hash": "c568fa7a731899adc3b7b0603a9ab511305db71c24956053b15a83b449b6caa8",
       "title": "Pete - Analog",
       "firmware_version": [
         "4.3",
